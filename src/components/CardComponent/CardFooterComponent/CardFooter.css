@@ -1,0 +1,10 @@
+.card-footer {
+    display: flex;
+    flex-direction: column;
+    background-color: var(--card-footer-bg);
+    color:var(--card-subtext);
+    padding: 10px;
+    font: inherit;
+    font-size: 10px;
+    text-align: center;
+}

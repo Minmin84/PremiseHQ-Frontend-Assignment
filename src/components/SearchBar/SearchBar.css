@@ -1,0 +1,10 @@
+.search-bar {
+    margin: 20px;
+    border: none;
+    outline: none;
+    padding: 5px;
+    line-height: 30px;
+    align-self: center;
+    border-radius: 10px;
+    text-align: center;
+}

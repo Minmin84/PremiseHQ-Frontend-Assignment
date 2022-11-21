@@ -1,0 +1,17 @@
+.card-header {
+    margin: 10px 20px;
+}
+
+.automated {
+    color: var(--automated-origin-text);
+    font: inherit;
+    font-size: 14px;
+    display: flex;
+}
+
+.manual {
+    color: var(--manual-origin-text);
+    font: inherit;
+    font-size: 14px;
+    display: flex;
+}
